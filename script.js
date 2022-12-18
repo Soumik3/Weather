@@ -70,7 +70,5 @@ setTimeout(() => {
 setTimeout(() => {
     otherWeather("London");
 }, 1600);
-setTimeout(() => {
-    otherWeather("Dubai");
-}, 1800);
+
 
